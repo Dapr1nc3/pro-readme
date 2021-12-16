@@ -6,7 +6,7 @@
   dfdfd
 
   ## Table of Contents
-  * [Installation](##Installation💽)
+  * [Installation](## Installation💽)
   * [Usage](##Usage🐱‍💻)
   * [Credits](##Credits👻)
   * [License](##License🐱‍🏍)
