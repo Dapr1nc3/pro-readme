@@ -3,7 +3,7 @@ const fs = require('fs');
 
 function renderBadge(license, github, project) {
   if (license){
-    return `https://img.shields.io/github/license/${github}/${project}`
+    return `<img src="https://img.shields.io/github/license/${github}/${project}">`
   };
 };
 
@@ -24,71 +24,80 @@ function renderSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function loadReadme(userInput) {
-  console.log(userInput);
+
   return `
+  ${renderBadge(userInput.badges[0], userInput.name, userInput.project)}
+
   # ${userInput.project}
 
   ## Description📝
   ${userInput.description}
 
   ## Table of Contents
-  * [Installation](#installation💽)
-  * [Usage](#usage🐱‍💻)
-  * [Credits](#credits👻)
-  * [License](#license🐱‍🏍)
-  * [Badges](#badges🎭)
-  * [Contributing](#contributing✔️)
-  * [Tests](#tests.🧪)
-  * [Questions](#questions❓)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Badges](#badges)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
   
 
-  ## Description
-
-  ${userInput.description}
-
-
-  ## Installation💽
+  ## Installation
 
   ${userInput.install}
 
 
-  ## Usage🐱‍💻
+  ## Usage
 
-  ${userInput.runtest}
-  ${userInput.repo}
+  
+  
 
 
-  ## Credits👻
+  ## Credits
 
-${userInput.contributingrepo}
+  ${userInput.contributingrepo}
+
+
 
 
   ${renderSection(userInput.badges[0])}
 
-  ${renderLink(userInput.badges[0])}
-
-
-  ## Badges🎭
-
   ${renderBadge(userInput.badges[0], userInput.name, userInput.project)}
 
-
-  ## Contributing✔️
-
+  ${renderLink(userInput.badges[0])} 
 
 
 
-  ## Tests🧪
+  ## Contributing
 
 
 
 
-  ## Questions❓
+  ## Tests
 
-${userInput.name}
-${userInput.email}
+  Correct answer 👇🏽
 
-[${userInput.name}](https://github.com/${userInput.name})
+  <img src= "https://user-images.githubusercontent.com/87787132/146451672-08bbcb79-a80e-4679-a64d-70f5f2c646c9.png">
+
+  Your answer: ${userInput.install}
+
+  Correct answer 👇🏽
+
+  <img src= "https://user-images.githubusercontent.com/87787132/146452913-dd0903c6-b937-4e32-9802-bc36a38c527f.png">
+  
+  Your answer: ${userInput.runtest}
+
+
+  ## Questions
+
+  👉 Email ${userInput.name} to reach out if you have any questions❓
+
+  👉 Email: ${userInput.email}
+
+  👉 Github: [${userInput.name}](https://github.com/${userInput.name})
 
   `;
 }
