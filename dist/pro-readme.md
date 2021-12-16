@@ -4,7 +4,7 @@
   # pro-readme
 
   ## Description📝
-  thi is it 
+  this is a description 
 
   ## Table of Contents
   - [Description](#description)
@@ -20,21 +20,25 @@
 
   ## Installation
 
-  npm i 
+  npm i
 
 
   ## Usage
 
-  npm run test
-  none 
+  nmp run test
+  nothing 
 
 
   ## Credits
 
-nothing 
+  none
+
+
 
 
   ## License🐱‍🏍
+
+  <img src="https://img.shields.io/github/license/Dapr1nc3/pro-readme">
 
   [MIT license](https://choosealicense.com/licenses/mit/) 
 
@@ -47,15 +51,18 @@ nothing
 
   ## Tests
 
+  npm i
   
+  nmp run test
 
 
   ## Questions
 
   👉 Email Dapr1nc3 to reach out if you have any questions❓
 
-  👉 Email: [ddaprincem84@gmail.com]
+  👉 Email: ddaprincem84@gmail.com
 
   👉 Github: [Dapr1nc3](https://github.com/Dapr1nc3)
 
+  
   
