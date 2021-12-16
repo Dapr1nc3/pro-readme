@@ -57,7 +57,7 @@
   
    Correct answer 👇🏽
   
-  ![nmp-i-ss](![npm-runtest-ss](https://user-images.githubusercontent.com/87787132/146452913-dd0903c6-b937-4e32-9802-bc36a38c527f.png)
+  ![nmp-i-ss](https://user-images.githubusercontent.com/87787132/146452913-dd0903c6-b937-4e32-9802-bc36a38c527f.png)
 
 
   
