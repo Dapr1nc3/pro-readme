@@ -1,67 +1,61 @@
 
- <img src="https://img.shields.io/github/license/Dapr1nc3/pro-readme">
+  <img src="https://img.shields.io/github/license/Dapr1nc3/pro-readme">
+
   # pro-readme
 
   ## Description📝
-  dfdfd
+  thi is it 
 
   ## Table of Contents
-  * [Installation](## Installation💽)
-  * [Usage](##Usage🐱‍💻)
-  * [Credits](##Credits👻)
-  * [License](##License🐱‍🏍)
-  * [Badges](##Badges🎭)
-  * [Contributing](##Contributing✔️)
-  * [Tests](##Tests🧪)
-  * [Questions](##Questions❓)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Badges](#badges)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
   
 
-  ## Description
+  ## Installation
 
-  dfdfd
-
-
-  ## Installation💽
-
-  dfdfdfd
+  npm i 
 
 
-  ## Usage🐱‍💻
+  ## Usage
 
-  dfdfdfd
-  dfdfdf
+  npm run test
+  none 
 
 
-  ## Credits👻
+  ## Credits
 
-dfdfdf
+nothing 
 
 
   ## License🐱‍🏍
 
-  [GNU license](https://choosealicense.com/licenses/gnu/)
+  [MIT license](https://choosealicense.com/licenses/mit/) 
 
 
-  ## Badges🎭
 
-  https://img.shields.io/github/license/dapr1nc3/pro-readme
-
-
-  ## Contributing✔️
+  ## Contributing
 
 
 
 
-  ## Tests🧪
+  ## Tests
+
+  
 
 
+  ## Questions
 
+  👉 Email Dapr1nc3 to reach out if you have any questions❓
 
-  ## Questions❓
+  👉 Email: [ddaprincem84@gmail.com]
 
-Dapr1nc3
-dfdfdfdf
-
-[Dapr1nc3](https://github.com/Dapr1nc3)
+  👉 Github: [Dapr1nc3](https://github.com/Dapr1nc3)
 
   
