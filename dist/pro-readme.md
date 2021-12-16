@@ -4,7 +4,7 @@
   # pro-readme
 
   ## Description📝
-  this is a description 
+  **this is a description** : 
 
   ## Table of Contents
   - [Description](#description)
