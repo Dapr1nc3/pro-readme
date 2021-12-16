@@ -4,7 +4,7 @@
   # pro-readme
 
   ## Description📝
-  description will go here
+  descriptio here
 
   ## Table of Contents
   - [Description](#description)
@@ -20,7 +20,7 @@
 
   ## Installation
 
-  npm i should be run
+  npm i will be run 
 
 
   ## Usage
@@ -31,7 +31,7 @@
 
   ## Credits
 
-  install and download the code to be able to edit or make changes to the code otherwise you can't 
+  install and download the code to be able to edit or make changes to the code otherwise you can't
 
 
 
@@ -46,11 +46,13 @@
 
   ## Contributing
 
-  it generates a readme file according to the user input 
+  #Future contributors should know the following 👇🏽
 
-  install and download the code to be able to edit or make changes to the code otherwise you can't 
+  it generates a readme file according to the user input
 
-  
+  install and download the code to be able to edit or make changes to the code otherwise you can't
+
+
 
   ## Tests
 
@@ -58,13 +60,13 @@
 
   <img src= "https://user-images.githubusercontent.com/87787132/146451672-08bbcb79-a80e-4679-a64d-70f5f2c646c9.png">
 
-  Your answer: npm i should be run
+  Your answer: npm i will be run 
 
   Correct answer 👇🏽
 
   <img src= "https://user-images.githubusercontent.com/87787132/146452913-dd0903c6-b937-4e32-9802-bc36a38c527f.png">
   
-  Your answer: npm run test should be run
+  Your answer: npm run test is correct 
 
 
   ## Questions

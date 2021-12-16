@@ -73,11 +73,13 @@ function loadReadme(userInput) {
 
   ## Contributing
 
+  #Future contributors should know the following 👇🏽
+
   ${userInput.repo}
 
   ${userInput.contributingrepo}
 
-  
+
 
   ## Tests
 
