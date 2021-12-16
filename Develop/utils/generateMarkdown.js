@@ -52,13 +52,15 @@ function loadReadme(userInput) {
 
   ## Usage
 
-  
+  ## How To Video Below
   
 
 
   ## Credits
 
-  ${userInput.contributingrepo}
+  **Credit goes out to** 👇🏽
+
+  ${userInput.credit}
 
 
 

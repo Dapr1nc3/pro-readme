@@ -95,6 +95,19 @@ function userquestions() {
         },
         {
             type: 'input',
+            name: 'credit',
+            message: 'To whom do you want to give credit to for this project?',
+            validate: repoInput => {
+                if (repoInput) {
+                    return true;
+                } else {
+                    console.log('Please provide a answer');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
             name: 'repo',
             message: 'What does the user need to know about using the repo?',
             validate: repoInput => {
