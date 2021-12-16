@@ -43,7 +43,7 @@ dfdfdf
 
   ## Badges🎭
 
-  https://img.shields.io/github/license/Dapr1nc3/pro-readme
+  https://img.shields.io/github/license/dapr1nc3/pro-readme
 
 
   ## Contributing✔️
