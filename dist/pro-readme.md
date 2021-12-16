@@ -6,14 +6,14 @@
   dfdfd
 
   ## Table of Contents
-  * [Installation](#installation💽)
-  * [Usage](#usage🐱‍💻)
-  * [Credits](#credits👻)
-  * [License](#license🐱‍🏍)
-  * [Badges](#badges🎭)
-  * [Contributing](#contributing✔️)
-  * [Tests](#tests.🧪)
-  * [Questions](#questions❓)
+  * [Installation](##Installation💽)
+  * [Usage](##Usage🐱‍💻)
+  * [Credits](##Credits👻)
+  * [License](##License🐱‍🏍)
+  * [Badges](##Badges🎭)
+  * [Contributing](##Contributing✔️)
+  * [Tests](##Tests🧪)
+  * [Questions](##Questions❓)
   
 
   ## Description
