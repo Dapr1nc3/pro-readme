@@ -4,7 +4,7 @@
   # pro-readme
 
   ## Description📝
-  descriptio here
+  description will go here
 
   ## Table of Contents
   - [Description](#description)
@@ -20,7 +20,7 @@
 
   ## Installation
 
-  npm i will be run 
+  npm i will be put 
 
 
   ## Usage
@@ -46,7 +46,7 @@
 
   ## Contributing
 
-  #Future contributors should know the following 👇🏽
+  **Future contributors should know the following** 👇🏽
 
   it generates a readme file according to the user input
 
@@ -56,25 +56,25 @@
 
   ## Tests
 
-  Correct answer 👇🏽
+  **Correct Answer** 👇🏽
 
   <img src= "https://user-images.githubusercontent.com/87787132/146451672-08bbcb79-a80e-4679-a64d-70f5f2c646c9.png">
 
-  Your answer: npm i will be run 
+  Your Answer: npm i will be put 
 
-  Correct answer 👇🏽
+  **Correct answer** 👇🏽
 
   <img src= "https://user-images.githubusercontent.com/87787132/146452913-dd0903c6-b937-4e32-9802-bc36a38c527f.png">
   
-  Your answer: npm run test is correct 
+  Your answer: npm is the right answer 
 
 
   ## Questions
 
   👉 Email Dapr1nc3 to reach out if you have any questions❓
 
-  👉 Email: ddaprincem84@gmail.com
+  👉 **Email**: ddaprincem84@gmail.com
 
-  👉 Github: [Dapr1nc3](https://github.com/Dapr1nc3)
+  👉 **Github**: [Dapr1nc3](https://github.com/Dapr1nc3)
 
   
