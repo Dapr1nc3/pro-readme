@@ -65,7 +65,7 @@ function userquestions() {
             type: 'checkbox',
             name: 'badges',
             message: 'What kind of license should your project have?',
-            choices: ['MIT','GNU','Apache']
+            choices: ['MIT','GNU','Apache','None']
         },
         {
             type: 'input',

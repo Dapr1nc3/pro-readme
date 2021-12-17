@@ -1,30 +1,50 @@
 const fs = require('fs');
 
 
-function renderBadge(license, github, project) {
-  if (license){
-    return `<img src="https://img.shields.io/github/license/${github}/${project}">`
+function renderBadge(license) {
+  if (license === 'None') {
+    return ``
+  };
+  if (license === 'MIT') {
+    return `<img src="https://img.shields.io/github/license/Dapr1nc3/run-buddy?color=Green&label=MIT">`
+  };
+  if (license === 'GNU') {
+    return `<img src="https://img.shields.io/github/license/Dapr1nc3/run-buddy?color=Green&label=GNU">`
+  };
+  if (license === 'Apache') {
+    return `<img src="https://img.shields.io/github/license/Dapr1nc3/run-buddy?color=Green&label=Apache">`
   };
 };
 
 function renderLink(license) {
+  if (license === 'None') {
+    return ``
+  }
   if (license) {
-    console.log(license);
     return `[${license} license](https://choosealicense.com/licenses/${license.toLowerCase()}/)`
   }
 };
 
 function renderSection(license) {
+  if (license.badges[0] === 'None') {
+    return ``
+  };
   if (license) {
-    return `## License🐱‍🏍`
+    return `## License
+    
+   ${renderBadge(license.badges[0])}
+
+   ${renderLink(license.badges[0])} 
+    
+    
+    `
   };
 };
- 
+
 
 
 // TODO: Create a function to generate markdown for README
 function loadReadme(userInput) {
-
   return `
   ${renderBadge(userInput.badges[0], userInput.name, userInput.project)}
 
@@ -39,7 +59,6 @@ function loadReadme(userInput) {
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [Badges](#badges)
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
@@ -65,11 +84,9 @@ function loadReadme(userInput) {
 
 
 
-  ${renderSection(userInput.badges[0])}
+  ${renderSection(userInput)}
 
-  ${renderBadge(userInput.badges[0], userInput.name, userInput.project)}
-
-  ${renderLink(userInput.badges[0])} 
+  
 
 
 
