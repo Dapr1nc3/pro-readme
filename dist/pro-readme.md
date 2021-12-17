@@ -3,8 +3,8 @@
 
   # pro-readme
 
-  # Description📝
-  ## **this is a description** : 
+  ## Description📝
+  description
 
   ## Table of Contents
   - [Description](#description)
@@ -20,18 +20,20 @@
 
   ## Installation
 
-  npm i
+  npm i is right
 
 
   ## Usage
 
-  nmp run test
-  nothing 
-
+  ## How To Video Below
+  
+  ![Watch the video]("https://youtu.be/ahOeZUHeX5k")
 
   ## Credits
 
-  none
+  **Credit goes out to** 👇🏽
+
+  Dapr1nc3
 
 
 
@@ -46,33 +48,36 @@
 
   ## Contributing
 
+  **Future contributors should know the following** 👇🏽
+
+  dfdf
+
+  dfdf
 
 
 
   ## Tests
 
-  Correct answer 👇🏽
-  
-  ![nmp-i-ss](https://user-images.githubusercontent.com/87787132/146451672-08bbcb79-a80e-4679-a64d-70f5f2c646c9.png)
-  
-   Correct answer 👇🏽
-  
-  ![nmp-i-ss](https://user-images.githubusercontent.com/87787132/146452913-dd0903c6-b937-4e32-9802-bc36a38c527f.png)
+  **Correct Answer** 👇🏽
 
+  <img src= "https://user-images.githubusercontent.com/87787132/146451672-08bbcb79-a80e-4679-a64d-70f5f2c646c9.png">
 
+  Your Answer: npm i is right
+
+  **Correct answer** 👇🏽
+
+  <img src= "https://user-images.githubusercontent.com/87787132/146452913-dd0903c6-b937-4e32-9802-bc36a38c527f.png">
   
-  npm i
-  
-  nmp run test
+  Your answer: npm run test
 
 
   ## Questions
 
   👉 Email Dapr1nc3 to reach out if you have any questions❓
 
-  👉 Email: ddaprincem84@gmail.com
+  👉 **Email**: ddaprincem84@gmail.com 
 
-  👉 Github: [Dapr1nc3](https://github.com/Dapr1nc3)
+  👉 **Github**: [Dapr1nc3](https://github.com/Dapr1nc3)
 
   
   
