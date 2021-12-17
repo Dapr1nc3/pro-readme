@@ -1,8 +1,6 @@
 
   <img src="https://img.shields.io/github/license/Dapr1nc3/pro-readme">
 
- <img src="https://img.shields.io/github/license/Dapr1nc3/run-buddy?color=Green&label=GNU">
-
   # pro-readme
 
   ## Description📝
